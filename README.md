@@ -13,6 +13,9 @@ A brief description of the project is given here.  The description is 1 to 3 sen
 ##Screenshot
 (insert a screenshot here. You may opt to get rid of the title for it. You need at least one screenshot. Make it actually appear here, don't just add a link.)
 
+Here's a demonstration of how to display an image that's uploaded to this repo:
+![screenshot showing env diagram](withdraw.png)
+
 ##Concepts Demonstrated
 Identify the OPL concepts demonstrated in your project. Be brief. A simple list and example is sufficient. 
 * _Data abstraction_ is used to provide access to the elements of the RSS feed.
