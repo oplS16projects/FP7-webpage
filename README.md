@@ -25,9 +25,9 @@ Identify the OPL concepts demonstrated in your project. Be brief. A simple list 
 ##External Technology and Libraries
 Briefly describe the existing technology you utilized, and how you used it. Provide a link to that technology(ies).
 
-##Favorite Lines of Code
+##Favorite Scheme Expressions
 ####Mark (a team member)
-Each team member should identify a favorite line of code, expression, or procedure written by them, and explain what it does. Why is it your favorite? What OPL philosophy does it embody?
+Each team member should identify a favorite expression or procedure, written by them, and explain what it does. Why is it your favorite? What OPL philosophy does it embody?
 Remember code looks something like this:
 ```scheme
 (map (lambda (x) (foldr compose functions)) data)
