@@ -4,7 +4,9 @@ I recommend you copy and paste into your README file. Delete this line and the o
 
 You are welcome to re-use text you wrote for your proposal, but make sure to **edit future tense to past tense**. Now, you are **explaining what happened**, rather than describing what you plan to do.
 
-If you wish, you may describe how the initial plan was transformed.
+It is also important to update the architecture diagram to reflect what actually was built (vs. what was planned). If you are confident in your own work, you can even indicate the part that was planned but not completed---e.g., [this example](https://github.com/oplS16projects/SlimeVolleyball/blob/master/README.md "Slime Volleyball from Spring 2016").
+
+You may also describe how the initial plan was transformed.
 
 But make sure any language that reads like "we will do..." is removed.
 
