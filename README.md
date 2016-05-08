@@ -2,6 +2,13 @@
 This is a template for using your repo's README.md as your project web page. 
 I recommend you copy and paste into your README file. Delete this line and the one above it, customize everything else. Make it look good!
 
+You are welcome to re-use text you wrote for your proposal, but make sure to **edit future tense to past tense**. Now, you are **explaining what happened**, rather than describing what you plan to do.
+
+If you wish, you may describe how the initial plan was transformed.
+
+But make sure any language that reads like "we will do..." is removed.
+
+
 ##Authors
 Person One
 
